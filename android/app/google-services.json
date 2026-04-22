@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487386847965",
+    "project_id": "mad2-etr-ebc8a",
+    "storage_bucket": "mad2-etr-ebc8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487386847965:android:148c2c9af8dfefe51f5934",
+        "android_client_info": {
+          "package_name": "com.example.mad2_etr_silva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOeKBuDbkLSRtv8QNSmJU7LQvMUrW2RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
